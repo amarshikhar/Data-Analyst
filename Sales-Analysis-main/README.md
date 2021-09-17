@@ -1,4 +1,4 @@
-# Python ile Satış Analizi - Using Python Pandas Library to Analyze Sales Data 
+# Using Python Pandas Library to Analyze Sales Data 
 
 Pandas,Matplotlib,Seaborn
 
